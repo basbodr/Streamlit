@@ -2,5 +2,6 @@ streamlit == 1.36.0
 Pillow
 opencv-python
 utils
+numpy
 openvino
 matplotlib
