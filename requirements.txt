@@ -1,8 +1,6 @@
 streamlit
 PIL
-cv2
-numpy
+opencv-python
 utils
-io
 openvino
 matplotlib
