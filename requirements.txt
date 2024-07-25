@@ -5,3 +5,4 @@ numpy
 utils
 io
 openvino
+matplotlib
