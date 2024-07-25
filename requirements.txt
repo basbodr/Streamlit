@@ -1,5 +1,5 @@
-streamlit
-PIL
+streamlit == 1.36.0
+Pillow
 opencv-python
 utils
 openvino
