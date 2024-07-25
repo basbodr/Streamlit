@@ -1,6 +1,6 @@
 streamlit
 PIL
-opencv-python
+opencv-python <3.5
 utils
 openvino
 matplotlib
