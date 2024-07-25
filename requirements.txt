@@ -4,3 +4,4 @@ cv2
 numpy
 utils
 io
+openvino
